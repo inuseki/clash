@@ -28,7 +28,7 @@ payload:
   - DOMAIN-SUFFIX,pussytorrent.org,distraction
   - DOMAIN-SUFFIX,pussytorrent.com,distraction
   - DOMAIN-SUFFIX,exoticaz.to,distraction
-  - DOMAIN,sukebi.nyaa.si,distraction
+  - DOMAIN,sukebei.nyaa.si,distraction
   - DOMAIN-SUFFIX,kemono.party,distraction
   - DOMAIN-SUFFIX,tachiyomi.org,distraction
   - DOMAIN-SUFFIX,eternaldesire.com,distraction
@@ -50,3 +50,9 @@ payload:
   - DOMAIN-SUFFIX,omegascans.org,distraction
   - DOMAIN-SUFFIX,bato.to,distraction
   - DOMAIN-SUFFIX,instagram.com,distraction
+  - DOMAIN-SUFFIX,cinemaz.to,distraction
+  - DOMAIN-SUFFIX,avistaz.to,distraction
+  - DOMAIN,worker.dramasuki.xyz,distraction
+  - DOMAIN-SUFFIX,animekaizoku.com,distraction
+  - DOMAIN-SUFFIX,soompi.com,distraction
+  - DOMAIN-SUFFIX,netflix.com,distraction
