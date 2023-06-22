@@ -56,3 +56,7 @@ payload:
   - DOMAIN-SUFFIX,animekaizoku.com,distraction
   - DOMAIN-SUFFIX,soompi.com,distraction
   - DOMAIN-SUFFIX,netflix.com,distraction
+  - DOMAIN-SUFFIX,facebook.com,distraction
+  - DOMAIN-SUFFIX,tiktok.com,distraction
+  - DOMAIN-SUFFIX,twitter.com,distraction
+  - DOMAIN-SUFFIX,tumblr.com,distraction
