@@ -62,3 +62,5 @@ payload:
   - DOMAIN-SUFFIX,tumblr.com,distraction
   - DOMAIN-SUFFIX,soundgasm.net,distraction
   - DOMAIN-SUFFIX,libreddit.kavin.rocks,distraction
+  - DOMAIN-SUFFIX,youtube.com,distraction
+  - DOMAIN-SUFFIX,youtube.lk,distraction
